@@ -2,7 +2,8 @@
 Skylark Multi-Agent Framework for AI-Powered Community Engagement
 This proof of concept explores the use of AI-driven agents to foster engagement, learning, and community-driven participation through personalized experiences. The system adapts dynamically to user behaviors, social interactions, and engagement patterns to create an evolving, gamified ecosystem.
 
-Core Agents in the System
+**Core Agents in the System 
+**
 Motivation Mapping Agent
 
 Identifies intrinsic and extrinsic motivators for individuals and community groups.
