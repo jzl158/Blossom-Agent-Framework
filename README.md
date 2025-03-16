@@ -52,7 +52,7 @@ Continuously refines engagement strategies based on user feedback and analytics.
 Introduces new features, quests, and reward systems based on emerging trends.
 Ensures that the community remains fresh, dynamic, and aligned with evolving user interests.
 
-<img width="1020" alt="Screenshot 2025-03-08 at 4 45 22 PM" src="https://github.com/user-attachments/assets/d8ab891e-a083-4fed-b514-ccc9322a3e57" />
+<img width="1020" alt="Screenshot 2025-03-08 at 4 45 22 PM" src="" />
 
 **Note**: the system doesn't dictate a single direction of enablement. Transform as you wish
 
