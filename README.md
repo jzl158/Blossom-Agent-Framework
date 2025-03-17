@@ -1,4 +1,4 @@
-# Skylark Community Engagement Multi-Agent Framework
+# Skylark presents Blossom: Multi-Agent Framework for Community Engagement
 
 This is a proof of concept for Community Engagement driven by a Multi-Agent Framework.  The goal of this project is to explorethe use of AI-driven agents to foster engagement, learning, and community-driven participation through personalized experiences. The system adapts dynamically to user behaviors, social interactions, and engagement patterns to create an evolving, gamified ecosystem.
 
